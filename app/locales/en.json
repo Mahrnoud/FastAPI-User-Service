@@ -1,0 +1,33 @@
+{
+  "general": {
+    "user_not_found": "User doesn't exist.",
+    "invalid_code": "The code is invalid.",
+    "too_many_attempts": "We've detected too many attempts. Please try again later."
+  },
+  "register": {
+    "registered_email": "Email already registered.",
+    "register_success": "User created. Please confirm your email."
+  },
+  "password": {
+    "too_short": "Password must be at least 8 characters long.",
+    "missing_case": "Password must contain both uppercase and lowercase letters.",
+    "missing_number": "Password must contain at least one number.",
+    "missing_special": "Password must contain at least one special character.",
+    "common_password": "Password is too common and easy to guess."
+  },
+  "confirm_email": {
+    "confirmation_success": "Email confirmed successfully."
+  },
+  "login": {
+    "invalid_credentials": "Invalid email or password.",
+    "unconfirmed_email": "Please confirm your email.",
+    "login_success": "You are now logged in."
+  },
+  "forget_password": {
+    "reset_code_sent": "Code sent to your email."
+  },
+  "reset_password": {
+    "code_expired": "Expired Code.",
+    "reset_success": "Password updated successfully."
+  }
+}
